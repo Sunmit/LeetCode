@@ -6,3 +6,5 @@
 坑2：为解决值传递问题，我首先设定了静态变量 static boolean flag，但是leetcode多线程模拟时，使用static会报错。
 
 为解决该问题，定义类Flag用于传递参数。
+
+solution1 为leetcode上答案 代码更优雅，但是时间复杂度上不一定更有优势，因为可能有重复计算。
