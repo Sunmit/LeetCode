@@ -5,8 +5,6 @@ LeetCode record
 
 |No.|Title|Solution|Difficulty|Note|
 |---|---|---|---|---|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[JAVA](
-https://github.com/Sunmit/LeetCode/blob/master/003.Longest%20Substring%20Without%20Repeating%20Characters/Solution.java)|Medium|1刷ac|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/005.Longest%20Palindromic%20Substring/Solution.java)|Medium|1刷看了答案|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/)|[SHELL](https://github.com/Sunmit/LeetCode/blob/master/195.Tenth%20Line/solution.sh)|Easy|1刷看了答案|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)|[MYSQL](https://github.com/Sunmit/LeetCode/tree/master/196.Delete%20Duplicate%20Emails)|Easy|1刷看了答案|
