@@ -3,6 +3,6 @@ LeetCode record
 
 记录leetcode代码及解题思路
 
-|题号|题目|难度|备注|
+|No.|Title|Difficulty|Note|
 |---|---|---|---|
-|196|Delete Duplicate Emails|Easy|未ac看了答案|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)|Easy|1刷看了答案|
