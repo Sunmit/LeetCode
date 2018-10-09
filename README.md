@@ -13,6 +13,7 @@ LeetCode record
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/011.Container%20With%20Most%20Water/Solution2.java)|Medium|1刷 根据答案优化|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/012.Integer%20to%20Roman/Solution.java)|Medium|1刷 答案更精简|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/015.3Sum/Solution.java)|Medium|1刷 答案更精简|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/016.3Sum%20Closest/Solution.java)|Medium|1刷ac|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/)|[SHELL](https://github.com/Sunmit/LeetCode/blob/master/195.Tenth%20Line/solution.sh)|Easy|1刷看了答案|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)|[MYSQL](https://github.com/Sunmit/LeetCode/tree/master/196.Delete%20Duplicate%20Emails)|Easy|1刷看了答案|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)|[MYSQL](https://github.com/Sunmit/LeetCode/blob/master/197.Rising%20Temperature/SQL.sql)|Easy|1刷ac|
