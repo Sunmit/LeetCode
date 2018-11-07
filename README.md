@@ -15,7 +15,7 @@ LeetCode record
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/015.3Sum/Solution.java)|Medium|1刷 答案更精简|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/016.3Sum%20Closest/Solution.java)|Medium|1刷ac|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/017.Letter%20Combinations%20of%20a%20Phone%20Number/Solution.java)|Medium|1刷ac 参考答案|
-|18|[4sum](https://leetcode.com/problems/4sum/)|[JAVA]1(https://github.com/Sunmit/LeetCode/blob/master/018.4Sum/Solution.java)|Medium|1刷看了答案|
+|18|[4sum](https://leetcode.com/problems/4sum/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/018.4Sum/Solution.java)|Medium|1刷看了答案|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/019.Remove%20Nth%20Node%20From%20End%20of%20List/Solution2.java)|Medium|1刷ac|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/022.Generate%20Parentheses/Solution.java)|Medium|1刷看了答案|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/)|[SHELL](https://github.com/Sunmit/LeetCode/blob/master/195.Tenth%20Line/solution.sh)|Easy|1刷看了答案|
