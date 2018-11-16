@@ -23,6 +23,7 @@ LeetCode record
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/025.Reverse%20Nodes%20in%20k-Group/Solution.java)|Hard|`1刷 看答案 不理解`|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/029.Divide%20Two%20Integers/Solution.java)|Medium|1刷 参考答案|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/030.Substring%20with%20Concatenation%20of%20All%20Words/Solution.java)|Hard|1刷ac|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/031.Next%20Permutation/Solution.java)|Medium|1刷ac|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/)|[SHELL](https://github.com/Sunmit/LeetCode/blob/master/195.Tenth%20Line/solution.sh)|Easy|1刷看了答案|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)|[MYSQL](https://github.com/Sunmit/LeetCode/tree/master/196.Delete%20Duplicate%20Emails)|Easy|刷看了答案|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)|[MYSQL](https://github.com/Sunmit/LeetCode/blob/master/197.Rising%20Temperature/SQL.sql)|Easy|1刷ac|
