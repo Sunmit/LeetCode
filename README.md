@@ -24,6 +24,7 @@ LeetCode record
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/029.Divide%20Two%20Integers/Solution.java)|Medium|1刷 参考答案|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/030.Substring%20with%20Concatenation%20of%20All%20Words/Solution.java)|Hard|1刷ac|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/031.Next%20Permutation/Solution.java)|Medium|1刷ac|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/032.Longest%20Valid%20Parentheses/Solution.java)|Hard|1刷 看了答案|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/046.Permutations/Solution.java)|Medium|1刷 看了答案|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/047.Permutations%20II/Solution.java)|Medium|1刷 看了答案|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/)|[SHELL](https://github.com/Sunmit/LeetCode/blob/master/195.Tenth%20Line/solution.sh)|Easy|1刷看了答案|
