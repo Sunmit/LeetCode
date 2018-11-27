@@ -25,6 +25,7 @@ LeetCode record
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/030.Substring%20with%20Concatenation%20of%20All%20Words/Solution.java)|Hard|1刷ac|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/031.Next%20Permutation/Solution.java)|Medium|1刷ac|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/046.Permutations/Solution.java)|Medium|1刷 看了答案|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/047.Permutations%20II/Solution.java)|Medium|1刷 看了答案|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/)|[SHELL](https://github.com/Sunmit/LeetCode/blob/master/195.Tenth%20Line/solution.sh)|Easy|1刷看了答案|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)|[MYSQL](https://github.com/Sunmit/LeetCode/tree/master/196.Delete%20Duplicate%20Emails)|Easy|刷看了答案|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)|[MYSQL](https://github.com/Sunmit/LeetCode/blob/master/197.Rising%20Temperature/SQL.sql)|Easy|1刷ac|
