@@ -33,6 +33,7 @@ LeetCode record
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/040.Combination%20Sum%20II/Solution2.java)|Medium|1刷ac|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/041.First%20Missing%20Positive/Solution.java)|Hard|1刷 看了答案|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/042.Trapping%20Rain%20Water/Solution.java)|Hard|1刷 看了答案|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/043.Multiply%20Strings/Solution2.java)|Medium|1刷ac 答案更好|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/046.Permutations/Solution.java)|Medium|1刷 看了答案|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/047.Permutations%20II/Solution.java)|Medium|1刷 看了答案|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/)|[SHELL](https://github.com/Sunmit/LeetCode/blob/master/195.Tenth%20Line/solution.sh)|Easy|1刷看了答案|
