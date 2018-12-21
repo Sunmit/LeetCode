@@ -45,6 +45,7 @@ LeetCode record
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/052.N-Queens%20II/Solution.java)|Hard|1刷 看了答案|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/054.Spiral%20Matrix/Solution.java)|Medium|1刷ac 看了答案|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/055.Jump%20Game/Solution.java)|Medium|1刷ac|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/056.Merge%20Intervals/Solution.java)|Medium|1刷ac|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/)|[SHELL](https://github.com/Sunmit/LeetCode/blob/master/195.Tenth%20Line/solution.sh)|Easy|1刷看了答案|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)|[MYSQL](https://github.com/Sunmit/LeetCode/tree/master/196.Delete%20Duplicate%20Emails)|Easy|刷看了答案|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)|[MYSQL](https://github.com/Sunmit/LeetCode/blob/master/197.Rising%20Temperature/SQL.sql)|Easy|1刷ac|
