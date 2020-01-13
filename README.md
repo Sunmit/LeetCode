@@ -47,6 +47,7 @@ LeetCode record
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/055.Jump%20Game/Solution.java)|Medium|1刷ac|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/056.Merge%20Intervals/Solution.java)|Medium|1刷ac|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/062.Unique%20Paths/Solution.java)|Medium|1刷ac|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/064.Minimum%20Path%20Sum/Solution.java)|Medium|1刷ac|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/)|[SHELL](https://github.com/Sunmit/LeetCode/blob/master/195.Tenth%20Line/solution.sh)|Easy|1刷看了答案|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)|[MYSQL](https://github.com/Sunmit/LeetCode/tree/master/196.Delete%20Duplicate%20Emails)|Easy|刷看了答案|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)|[MYSQL](https://github.com/Sunmit/LeetCode/blob/master/197.Rising%20Temperature/SQL.sql)|Easy|1刷ac|
