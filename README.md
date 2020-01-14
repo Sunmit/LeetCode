@@ -43,6 +43,8 @@ LeetCode record
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/050.Pow-x-%20n/Solution.java)|Medium|1刷ac 看了答案|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/051.N-Queens/Solution.java)|Hard|1刷 看了答案|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/052.N-Queens%20II/Solution.java)|Hard|1刷 看了答案|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/53.Maximum%20Subarray/Solution.java)|Easy|1刷|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/052.N-Queens%20II/Solution.java)|Hard|1刷 看了答案|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/054.Spiral%20Matrix/Solution.java)|Medium|1刷ac 看了答案|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/055.Jump%20Game/Solution.java)|Medium|1刷ac|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/056.Merge%20Intervals/Solution.java)|Medium|1刷ac|
