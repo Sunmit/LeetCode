@@ -56,5 +56,5 @@ LeetCode record
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)|[MYSQL](https://github.com/Sunmit/LeetCode/blob/master/197.Rising%20Temperature/SQL.sql)|Easy|1刷ac|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/198.House%20Robber/Solution1.java)|Easy|1刷ac 经典|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/217.Contains%20Duplicate/Solution.java)|Easy|1刷ac|
-
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)|[JAVA](https://github.com/Sunmit/LeetCode/blob/master/322.Coin%20Change/Solution.java)|Medium|1刷 看了答案|
 
