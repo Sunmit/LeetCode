@@ -3,6 +3,8 @@ class Solution {
         int m = obstacleGrid.length;
         int n = obstacleGrid[0].length;
         int[][] dp = new int[m][n];
+        
+        //caution! init is important
         if(obstacleGrid[0][0]!=1){
             dp[0][0]=1;
         }
